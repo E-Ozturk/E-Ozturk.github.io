@@ -1,0 +1,20 @@
+.lichaam{
+	background-color: #0F2027;
+	font-family: 'Times New Roman', serif;
+}
+
+.kopie{
+	clear: both;
+	padding: 10px;
+	background-color: #44464a;
+	color: #66CCFF;
+	text-align: center;
+	margin-left:  -15px;
+	margin-right: -15px;
+}
+
+.kopie a{
+	color: #66CCFF;
+}
+
+
